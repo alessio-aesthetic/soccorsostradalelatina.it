@@ -1,4 +1,4 @@
-﻿export const site = {
+export const site = {
     "domain":  "soccorsostradalelatina.it",
     "template":  "syntax",
     "description":  "Carroattrezzi a Latina e soccorso stradale a Latina: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
