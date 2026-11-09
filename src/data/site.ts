@@ -5,7 +5,6 @@ export const site = {
     "tel":  "+3907731802964",
     "city":  "Latina",
     "name":  "Carroattrezzi Latina",
-    "address":  "Via Epitaffio, 45 - 04100 Latina LT",
     "title":  "Carroattrezzi a Latina 24H | Soccorso stradale",
     "phone":  "0773 180 2964",
     "email":  "assistenza@soccorsostradalelatina.it"
